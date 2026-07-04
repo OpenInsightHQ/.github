@@ -44,7 +44,7 @@ It enables AI to understand enterprise systems, enterprise data, enterprise know
 
 ## Why Open Insight?
 
-Most AI systems are designed to answer questions.
+Most Data Agent systems are designed to answer questions.
 
 **Open Insight is designed to achieve business goals.**
 
@@ -52,9 +52,7 @@ A conversation usually lasts minutes.
 
 A business goal may take hours, days, or even weeks.
 
-Open Insight continuously understands enterprise context, reasons about business objectives, plans execution, executes **Enterprise Skills**, and learns along the way until the goal is achieved.
-
-Because enterprises don't measure conversations.
+Enterprises don't measure conversations.
 
 **They measure outcomes.**
 
