@@ -4,47 +4,70 @@
 
 > **AI Understands Enterprise, Not the Other Way Around.**
 
-Open Insight is an open-source Enterprise Agent Operating System that helps AI understand enterprise data, systems and knowledge, then execute real business tasks through reusable Skills.
+Open Insight is an **Open Core Enterprise Agent Operating System**.
 
-We believe enterprise AI should start with understanding the enterprise itself.
+It enables AI to understand enterprise systems, enterprise data, enterprise knowledge and personal memory, then execute real business tasks through reusable **Enterprise Skills**.
 
-Not workflows.
+---
 
-Not prompts.
+## Architecture
 
-Not documents.
+> **Enterprise AI starts with understanding the enterprise.**
 
-**But enterprise data.**
+```text
+                     Business Goal
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │   Open Insight OS   │
+                └─────────────────────┘
+                           │
+      ┌──────────────┬──────────────┬────────────────────┬──────────────┐
+      ▼              ▼              ▼                    ▼
+ Enterprise      Enterprise     Enterprise          Personal
+   Systems          Data      Knowledge             Memory
+                                 (Coming Soon)
+      │              │              │                    │
+      └──────────────┴──────────────┴────────────────────┘
+                           │
+                           ▼
+                  Reason • Plan • Execute
+                           │
+                           ▼
+                  Enterprise Skills
+                           │
+                           ▼
+                 Business Outcome
+```
 
 ---
 
 ## Why Open Insight?
 
-Most open-source Agent frameworks are designed for individuals.
+Most AI systems are designed to answer questions.
 
-Most enterprise AI products only answer questions.
+**Open Insight is designed to achieve business goals.**
 
-Open Insight is built for enterprises.
+A conversation usually lasts minutes.
 
-It combines **Data Agents**, **Action Agents**, **Enterprise Skills** and **Long-term Memory** into one unified operating system.
+A business goal may take hours, days, or even weeks.
 
----
+Open Insight continuously understands enterprise context, reasons about business objectives, plans execution, executes **Enterprise Skills**, and learns along the way until the goal is achieved.
 
-## Core Principles
+Because enterprises don't measure conversations.
 
-- Enterprise Data First
-- Build Enterprise Skills, Not Workflows
-- AI Understands Enterprise
-- Explainable & Traceable
-- Private by Design
-- Open Core
+**They measure outcomes.**
 
----
+## Built for Teams, Not Individuals
 
-## Community
+Most open-source Agent projects are designed for personal environments.
 
-Open Insight is an open community exploring the future of Enterprise AI.
+Open Insight is designed for organizations.
 
-Whether you're building Skills, Data Agents, enterprise integrations or entirely new ideas, you're welcome here.
+Deploy once.
 
-Together, we're building the next generation of Enterprise Agent Operating Systems.
+Configure once.
+
+Govern centrally.
+
+Everyone works with the same Enterprise AI.
