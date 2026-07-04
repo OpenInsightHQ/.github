@@ -22,7 +22,7 @@ It enables AI to understand enterprise systems, enterprise data, enterprise know
                 │   Open Insight OS   │
                 └─────────────────────┘
                            │
-      ┌──────────────┬──────────────┬────────────────────┬──────────────┐
+      ┌──────────────┬──────────────┬────────────────────┬
       ▼              ▼              ▼                    ▼
  Enterprise      Enterprise     Enterprise          Personal
    Systems          Data      Knowledge             Memory
