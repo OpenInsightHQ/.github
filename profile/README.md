@@ -48,24 +48,20 @@ Most Data Agent systems are designed to answer questions.
 
 **Open Insight is designed to achieve business goals.**
 
-A conversation usually lasts minutes.
-
-A business goal may take hours, days, or even weeks.
-
 Enterprises don't measure conversations.
 
 **They measure outcomes.**
 
-## Built for Teams, Not Individuals
+## Built for Enterprise, Not Personal AI
 
-Most open-source Agent projects are designed for personal environments.
+Most AI Agents are designed for individual users.
 
-Open Insight is designed for organizations.
+Each user installs, configures and manages their own AI environment.
 
-Deploy once.
+Open Insight takes a different approach.
 
-Configure once.
+AI belongs to the enterprise.
 
-Govern centrally.
+Enterprise Skills, enterprise context, business knowledge and data connections are centrally managed by administrators and securely shared across the organization.
 
-Everyone works with the same Enterprise AI.
+Employees simply focus on achieving business goals.
