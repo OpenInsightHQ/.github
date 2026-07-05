@@ -2,7 +2,7 @@
 
 ### Enterprise Agent Operating System
 
-> **AI Understands Enterprise, Not the Other Way Around.**
+> **Build AI that understands enterprises and accomplishes business goals.**
 
 Open Insight is an **Open Core Enterprise Agent Operating System**.
 
