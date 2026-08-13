@@ -1,0 +1,202 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" font-family="'Segoe UI', system-ui, -apple-system, sans-serif">
+  <defs>
+    <linearGradient id="osBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="understandBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a2332"/>
+      <stop offset="100%" stop-color="#1e2d3d"/>
+    </linearGradient>
+    <linearGradient id="executeBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1c2733"/>
+      <stop offset="100%" stop-color="#20303d"/>
+    </linearGradient>
+
+    <!-- Server rack icon -->
+    <symbol id="icon-systems" viewBox="0 0 48 48">
+      <rect x="8" y="6" width="32" height="10" rx="2" fill="none" stroke="#58a6ff" stroke-width="2"/>
+      <circle cx="13" cy="11" r="1.5" fill="#3fb950"/>
+      <rect x="18" y="9" width="16" height="1.5" rx="0.5" fill="#58a6ff" opacity="0.5"/>
+      <rect x="8" y="19" width="32" height="10" rx="2" fill="none" stroke="#58a6ff" stroke-width="2"/>
+      <circle cx="13" cy="24" r="1.5" fill="#3fb950"/>
+      <rect x="18" y="22" width="16" height="1.5" rx="0.5" fill="#58a6ff" opacity="0.5"/>
+      <rect x="8" y="32" width="32" height="10" rx="2" fill="none" stroke="#58a6ff" stroke-width="2"/>
+      <circle cx="13" cy="37" r="1.5" fill="#3fb950"/>
+      <rect x="18" y="35" width="16" height="1.5" rx="0.5" fill="#58a6ff" opacity="0.5"/>
+    </symbol>
+
+    <!-- Database cylinder icon -->
+    <symbol id="icon-database" viewBox="0 0 48 48">
+      <ellipse cx="24" cy="10" rx="16" ry="5" fill="none" stroke="#58a6ff" stroke-width="2"/>
+      <path d="M 8 10 L 8 24 C 8 27 15 30 24 30 C 33 30 40 27 40 24 L 40 10" fill="none" stroke="#58a6ff" stroke-width="2"/>
+      <path d="M 8 24 L 8 38 C 8 41 15 44 24 44 C 33 44 40 41 40 38 L 40 24" fill="none" stroke="#58a6ff" stroke-width="2"/>
+      <ellipse cx="24" cy="24" rx="16" ry="5" fill="none" stroke="#58a6ff" stroke-width="1.5" opacity="0.4"/>
+      <ellipse cx="24" cy="38" rx="16" ry="5" fill="none" stroke="#58a6ff" stroke-width="1.5" opacity="0.4"/>
+    </symbol>
+
+    <!-- Knowledge (books) icon -->
+    <symbol id="icon-knowledge" viewBox="0 0 48 48">
+      <rect x="6" y="10" width="9" height="30" rx="1.5" fill="none" stroke="#58a6ff" stroke-width="2"/>
+      <rect x="17" y="6" width="9" height="34" rx="1.5" fill="none" stroke="#58a6ff" stroke-width="2"/>
+      <rect x="28" y="14" width="9" height="26" rx="1.5" fill="none" stroke="#58a6ff" stroke-width="2"/>
+      <rect x="39" y="18" width="4" height="22" rx="1" fill="none" stroke="#58a6ff" stroke-width="2"/>
+      <line x1="19" y1="13" x2="24" y2="13" stroke="#58a6ff" stroke-width="1.5"/>
+      <line x1="19" y1="18" x2="24" y2="18" stroke="#58a6ff" stroke-width="1.5"/>
+      <line x1="19" y1="23" x2="24" y2="23" stroke="#58a6ff" stroke-width="1.5"/>
+      <line x1="30" y1="20" x2="35" y2="20" stroke="#58a6ff" stroke-width="1.5"/>
+      <line x1="30" y1="25" x2="35" y2="25" stroke="#58a6ff" stroke-width="1.5"/>
+      <line x1="8" y1="16" x2="13" y2="16" stroke="#58a6ff" stroke-width="1.5"/>
+      <line x1="8" y1="21" x2="13" y2="21" stroke="#58a6ff" stroke-width="1.5"/>
+    </symbol>
+
+    <!-- Brain icon -->
+    <symbol id="icon-brain" viewBox="0 0 48 48">
+      <path d="M 18 8 C 12 8 8 12 8 17 C 8 19 9 20 10 21 C 9 23 9 26 11 28 C 11 32 14 36 18 36 L 18 8 Z" fill="none" stroke="#58a6ff" stroke-width="2"/>
+      <path d="M 30 8 C 36 8 40 12 40 17 C 40 19 39 20 38 21 C 39 23 39 26 37 28 C 37 32 34 36 30 36 L 30 8 Z" fill="none" stroke="#58a6ff" stroke-width="2"/>
+      <path d="M 18 12 C 15 12 13 14 13 17" fill="none" stroke="#58a6ff" stroke-width="1.2" opacity="0.5"/>
+      <path d="M 18 20 C 14 20 12 23 12 26" fill="none" stroke="#58a6ff" stroke-width="1.2" opacity="0.5"/>
+      <path d="M 30 12 C 33 12 35 14 35 17" fill="none" stroke="#58a6ff" stroke-width="1.2" opacity="0.5"/>
+      <path d="M 30 20 C 34 20 36 23 36 26" fill="none" stroke="#58a6ff" stroke-width="1.2" opacity="0.5"/>
+      <line x1="18" y1="14" x2="30" y2="14" stroke="#58a6ff" stroke-width="1" opacity="0.3"/>
+      <line x1="18" y1="20" x2="30" y2="20" stroke="#58a6ff" stroke-width="1" opacity="0.3"/>
+      <line x1="18" y1="26" x2="30" y2="26" stroke="#58a6ff" stroke-width="1" opacity="0.3"/>
+      <line x1="18" y1="32" x2="30" y2="32" stroke="#58a6ff" stroke-width="1" opacity="0.3"/>
+      <circle cx="14" cy="30" r="1.5" fill="#3fb950"/>
+      <circle cx="34" cy="30" r="1.5" fill="#3fb950"/>
+      <circle cx="14" cy="14" r="1" fill="#58a6ff" opacity="0.6"/>
+      <circle cx="34" cy="14" r="1" fill="#58a6ff" opacity="0.6"/>
+    </symbol>
+
+    <!-- Reason (magnifier) icon -->
+    <symbol id="icon-reason" viewBox="0 0 32 32">
+      <circle cx="13" cy="13" r="8" fill="none" stroke="#7ee787" stroke-width="2.5"/>
+      <line x1="19" y1="19" x2="26" y2="26" stroke="#7ee787" stroke-width="2.5" stroke-linecap="round"/>
+    </symbol>
+
+    <!-- Plan (checklist) icon -->
+    <symbol id="icon-plan" viewBox="0 0 32 32">
+      <rect x="5" y="4" width="22" height="24" rx="2" fill="none" stroke="#7ee787" stroke-width="2"/>
+      <polyline points="9,12 11,14 15,10" fill="none" stroke="#7ee787" stroke-width="2" stroke-linecap="round"/>
+      <line x1="18" y1="12" x2="23" y2="12" stroke="#7ee787" stroke-width="2" stroke-linecap="round"/>
+      <polyline points="9,21 11,23 15,19" fill="none" stroke="#7ee787" stroke-width="2" stroke-linecap="round"/>
+      <line x1="18" y1="21" x2="23" y2="21" stroke="#7ee787" stroke-width="2" stroke-linecap="round"/>
+    </symbol>
+
+    <!-- Skills (bolt) icon -->
+    <symbol id="icon-skills" viewBox="0 0 32 32">
+      <polygon points="18,3 8,18 15,18 13,29 24,13 17,13" fill="none" stroke="#7ee787" stroke-width="2" stroke-linejoin="round"/>
+    </symbol>
+
+    <!-- Act (checkmark circle) icon -->
+    <symbol id="icon-act" viewBox="0 0 32 32">
+      <circle cx="16" cy="16" r="12" fill="none" stroke="#7ee787" stroke-width="2"/>
+      <polyline points="10,16 14,20 22,12" fill="none" stroke="#7ee787" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="640" fill="#010409"/>
+
+  <!-- === BUSINESS GOAL === -->
+  <rect x="320" y="15" width="260" height="42" rx="21" fill="#1f6feb" opacity="0.9"/>
+  <text x="450" y="42" text-anchor="middle" font-size="16" font-weight="700" fill="#ffffff">🎯 Business Goal</text>
+
+  <!-- Arrow: Goal → OS -->
+  <rect x="447" y="60" width="6" height="18" fill="#58a6ff"/>
+  <polygon points="440,78 460,78 450,90" fill="#58a6ff"/>
+
+  <!-- === OPEN INSIGHT OS CONTAINER === -->
+  <rect x="60" y="95" width="780" height="470" rx="16" fill="url(#osBg)" stroke="#30363d" stroke-width="1.5"/>
+  <text x="450" y="123" text-anchor="middle" font-size="13" font-weight="600" fill="#8b949e" letter-spacing="3">OPEN INSIGHT OS</text>
+
+  <!-- ============ UNDERSTAND LAYER ============ -->
+  <rect x="80" y="135" width="740" height="225" rx="12" fill="url(#understandBg)" stroke="#2d4a6b" stroke-width="1" stroke-dasharray="4 2"/>
+  <rect x="100" y="125" width="330" height="22" rx="11" fill="#1f6feb"/>
+  <text x="265" y="140" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff" letter-spacing="2">🧠 UNDERSTAND  ·  Auto-Learning</text>
+
+  <!-- 4 understanding pillars (bigger: width=165, height=165, more gap) -->
+  <!-- Enterprise Systems -->
+  <rect x="95" y="170" width="165" height="170" rx="10" fill="#21262d" stroke="#388bfd" stroke-width="1.5"/>
+  <use href="#icon-systems" x="153" y="182" width="50" height="50"/>
+  <text x="177" y="258" text-anchor="middle" font-size="14" font-weight="700" fill="#58a6ff">Enterprise</text>
+  <text x="177" y="276" text-anchor="middle" font-size="14" font-weight="700" fill="#58a6ff">Systems</text>
+  <text x="177" y="298" text-anchor="middle" font-size="10" fill="#8b949e">CRM · ERP · HRMS</text>
+  <text x="177" y="312" text-anchor="middle" font-size="10" fill="#8b949e">and any system with APIs</text>
+
+  <!-- Enterprise Data -->
+  <rect x="278" y="170" width="165" height="170" rx="10" fill="#21262d" stroke="#388bfd" stroke-width="1.5"/>
+  <use href="#icon-database" x="336" y="182" width="50" height="50"/>
+  <text x="360" y="258" text-anchor="middle" font-size="14" font-weight="700" fill="#58a6ff">Enterprise</text>
+  <text x="360" y="276" text-anchor="middle" font-size="14" font-weight="700" fill="#58a6ff">Data</text>
+  <text x="360" y="298" text-anchor="middle" font-size="10" fill="#8b949e">SQL · NoSQL · Search</text>
+  <text x="360" y="312" text-anchor="middle" font-size="10" fill="#8b949e">any data source</text>
+
+  <!-- Enterprise Knowledge -->
+  <rect x="461" y="170" width="165" height="170" rx="10" fill="#21262d" stroke="#d29922" stroke-width="1.5"/>
+  <use href="#icon-knowledge" x="519" y="182" width="50" height="50"/>
+  <text x="543" y="258" text-anchor="middle" font-size="14" font-weight="700" fill="#58a6ff">Enterprise</text>
+  <text x="543" y="276" text-anchor="middle" font-size="14" font-weight="700" fill="#58a6ff">Knowledge</text>
+  <text x="543" y="298" text-anchor="middle" font-size="10" fill="#8b949e">Docs · Wikis</text>
+  <text x="543" y="312" text-anchor="middle" font-size="10" fill="#8b949e">SOPs · Rules</text>
+  <rect x="486" y="320" width="114" height="16" rx="8" fill="#d29922" opacity="0.15"/>
+  <text x="543" y="332" text-anchor="middle" font-size="10" font-weight="600" fill="#d29922">Coming Soon</text>
+
+  <!-- Personal Memory -->
+  <rect x="644" y="170" width="165" height="170" rx="10" fill="#21262d" stroke="#388bfd" stroke-width="1.5"/>
+  <use href="#icon-brain" x="702" y="182" width="50" height="50"/>
+  <text x="726" y="258" text-anchor="middle" font-size="14" font-weight="700" fill="#58a6ff">Personal</text>
+  <text x="726" y="276" text-anchor="middle" font-size="14" font-weight="700" fill="#58a6ff">Memory</text>
+  <text x="726" y="298" text-anchor="middle" font-size="10" fill="#8b949e">Preferences</text>
+  <text x="726" y="312" text-anchor="middle" font-size="10" fill="#8b949e">Context · History</text>
+
+  <!-- ============ EXECUTE LAYER ============ -->
+  <rect x="80" y="380" width="740" height="170" rx="12" fill="url(#executeBg)" stroke="#2d6b4a" stroke-width="1" stroke-dasharray="4 2"/>
+  <rect x="100" y="370" width="170" height="22" rx="11" fill="#238636"/>
+  <text x="185" y="385" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff" letter-spacing="2">⚡ EXECUTE</text>
+
+  <!-- Reason -->
+  <rect x="115" y="412" width="135" height="55" rx="10" fill="#21262d" stroke="#3fb950" stroke-width="1.5"/>
+  <use href="#icon-reason" x="124" y="422" width="22" height="22"/>
+  <text x="195" y="437" text-anchor="middle" font-size="13" font-weight="700" fill="#7ee787">Reason</text>
+  <text x="182" y="454" text-anchor="middle" font-size="10" fill="#8b949e">Understand intent</text>
+
+  <!-- arrow Reason → Plan -->
+  <rect x="258" y="436" width="22" height="5" fill="#7ee787"/>
+  <polygon points="280,432 290,439 280,444" fill="#7ee787"/>
+
+  <!-- Plan -->
+  <rect x="298" y="412" width="135" height="55" rx="10" fill="#21262d" stroke="#3fb950" stroke-width="1.5"/>
+  <use href="#icon-plan" x="307" y="422" width="22" height="22"/>
+  <text x="378" y="437" text-anchor="middle" font-size="13" font-weight="700" fill="#7ee787">Plan</text>
+  <text x="365" y="454" text-anchor="middle" font-size="10" fill="#8b949e">Decompose task</text>
+
+  <!-- arrow Plan → Skills -->
+  <rect x="440" y="436" width="22" height="5" fill="#7ee787"/>
+  <polygon points="462,432 472,439 462,444" fill="#7ee787"/>
+
+  <!-- Enterprise Skills -->
+  <rect x="480" y="402" width="165" height="75" rx="10" fill="#0d2818" stroke="#3fb950" stroke-width="2.5"/>
+  <use href="#icon-skills" x="489" y="415" width="24" height="24"/>
+  <text x="575" y="431" text-anchor="middle" font-size="14" font-weight="700" fill="#7ee787">Enterprise Skills</text>
+  <text x="562" y="448" text-anchor="middle" font-size="10" fill="#8b949e">Reusable · Shared</text>
+  <text x="562" y="462" text-anchor="middle" font-size="10" fill="#8b949e">Governed · Audited</text>
+
+  <!-- arrow Skills → Act -->
+  <rect x="652" y="436" width="22" height="5" fill="#7ee787"/>
+  <polygon points="674,432 684,439 674,444" fill="#7ee787"/>
+
+  <!-- Act -->
+  <rect x="692" y="412" width="115" height="55" rx="10" fill="#21262d" stroke="#3fb950" stroke-width="1.5"/>
+  <use href="#icon-act" x="701" y="422" width="22" height="22"/>
+  <text x="762" y="437" text-anchor="middle" font-size="13" font-weight="700" fill="#7ee787">Act</text>
+  <text x="749" y="454" text-anchor="middle" font-size="10" fill="#8b949e">Execute &amp; verify</text>
+
+  <!-- Arrow: OS → Outcome -->
+  <rect x="447" y="568" width="6" height="18" fill="#58a6ff"/>
+  <polygon points="440,586 460,586 450,598" fill="#58a6ff"/>
+
+  <!-- === BUSINESS OUTCOME === -->
+  <rect x="300" y="602" width="300" height="36" rx="18" fill="#238636" opacity="0.9"/>
+  <text x="450" y="625" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">✅ Business Outcome</text>
+</svg>
