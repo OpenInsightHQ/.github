@@ -8,6 +8,14 @@ Open Insight is an **Open Core Enterprise Agent Operating System**.
 
 It enables AI to understand enterprise systems, enterprise data, enterprise knowledge and personal memory, then execute real business tasks through reusable **Enterprise Skills**.
 
+<p align="center">
+  <a href="https://github.com/OpenInsightHQ/openinsight"><strong>Get Started →</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/OpenInsightHQ/openinsight#quick-start"><strong>Quick Deployment</strong></a>
+</p>
+
+<p align="center"><strong>Deploy Open Insight on your own server and start experiencing enterprise AI in minutes.</strong></p>
+
 ---
 
 ## Architecture
@@ -45,3 +53,11 @@ It runs on enterprise infrastructure, not personal laptops. No installation, no 
 Enterprise Skills, enterprise context, business knowledge and data connections are centrally managed by administrators and securely shared across the organization.
 
 Employees simply focus on achieving business goals.
+
+---
+
+## Get Started
+
+Deploy Open Insight on your own infrastructure and experience the Enterprise Agent Operating System.
+
+**[Download and deploy Open Insight →](https://github.com/OpenInsightHQ/openinsight)**
