@@ -62,6 +62,8 @@ Open Insight takes a different approach.
 
 AI belongs to the enterprise.
 
+It runs on enterprise infrastructure, not personal laptops. No installation, no setup, no maintenance burden on employees. It works **24/7** — monitoring systems, processing tasks, and collaborating with other AI agents across departments.
+
 Enterprise Skills, enterprise context, business knowledge and data connections are centrally managed by administrators and securely shared across the organization.
 
 Employees simply focus on achieving business goals.
