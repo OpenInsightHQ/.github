@@ -15,7 +15,7 @@ It enables AI to understand enterprise systems, enterprise data, enterprise know
 > **Enterprise AI starts with understanding the enterprise.**
 
 <p align="center">
-  <img src="profile/architecture-diagram.svg" alt="Open Insight Architecture" width="720">
+  <img src="architecture-diagram.png" alt="Open Insight Architecture" width="720">
 </p>
 
 ---
