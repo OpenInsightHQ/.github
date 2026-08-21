@@ -4,8 +4,6 @@
 
 > **A team of AI employees designed to understand your business, perform specialized work, and deliver real business outcomes.**
 
-**Open Insight is an Open Core Enterprise Agent Operating System.**
-
 It enables AI to understand enterprise systems, enterprise data, enterprise knowledge and personal memory, then execute real business tasks through reusable **Enterprise Skills**.
 
 <p align="center">
