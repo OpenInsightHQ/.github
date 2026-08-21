@@ -54,13 +54,17 @@ Each user installs, configures and manages their own AI environment.
 
 Open Insight takes a different approach.
 
-AI belongs to the enterprise.
+The enterprise learns once. Everyone benefits.
+
+Open Insight continuously learns from the enterprise — its data, systems, business knowledge, workflows, skills, and expertise. This knowledge is centrally managed, governed, and made available to employees across the organization.
+
+Employees don't need to build their own AI from scratch. They simply use AI to accomplish their work.
+
+As employees use Open Insight, their interactions, feedback, and outcomes can further improve the AI
+
+The enterprise builds the intelligence. Employees put it to work. Employees simply focus on achieving business goals. 
 
 It runs on enterprise infrastructure, not personal laptops. No installation, no setup, no maintenance burden on employees. It works **24/7** — monitoring systems, processing tasks, and collaborating with other AI agents across departments.
-
-Enterprise Skills, enterprise context, business knowledge and data connections are centrally managed by administrators and securely shared across the organization.
-
-Employees simply focus on achieving business goals.
 
 ---
 
