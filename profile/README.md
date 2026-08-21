@@ -1,8 +1,8 @@
 # Open Insight
 
-### Enterprise Agent Operating System
+### Build an AI workforce for your enterprise.
 
-> **Build AI that understands enterprises and accomplishes business goals.**
+> **A team of AI employees designed to understand your business, perform specialized work, and deliver real business outcomes.**
 
 Open Insight is an **Open Core Enterprise Agent Operating System**.
 
