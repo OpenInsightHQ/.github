@@ -26,6 +26,14 @@ It enables AI to understand enterprise systems, enterprise data, enterprise know
   <img src="architecture-diagram.png" alt="Open Insight Architecture" width="720">
 </p>
 
+### ONE-PI Agent Architecture
+
+ONE-PI connects to an extensible set of expert agents, each equipped with Prompt, MCP, API, and Skill capabilities.
+
+<p align="center">
+  <img src="one-pi-agent-architecture.svg" alt="ONE-PI Agent Architecture" width="720">
+</p>
+
 ---
 
 ## Why Open Insight?
