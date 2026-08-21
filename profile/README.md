@@ -1,6 +1,6 @@
 # Open Insight
 
-### Build an AI workforce for your enterprise.
+### Build the next generation of AI employees for your enterprise.
 
 > **A team of AI employees designed to understand your business, perform specialized work, and deliver real business outcomes.**
 
